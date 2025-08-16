@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "array_tutorial",
+            "request": "launch",
+            "mainClass": "array_tutorial",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "TwoDimensionalArray",
+            "request": "launch",
+            "mainClass": "com.arrays.TwoDimensionalArray",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "array_tutorial",
+            "request": "launch",
+            "mainClass": "com.arrays.array_tutorial",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "question",
+            "request": "launch",
+            "mainClass": "com.method.question",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "com.method.Calculator",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "var_args",
+            "request": "launch",
+            "mainClass": "com.method.var_args",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "shadowing",
+            "request": "launch",
+            "mainClass": "com.method.shadowing",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "pass_by_value",
+            "request": "launch",
+            "mainClass": "com.method.pass_by_value",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "tutorial",
+            "request": "launch",
+            "mainClass": "com.method.tutorial",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "primitive",
+            "request": "launch",
+            "mainClass": "com.example.primitive",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "com.example.sum",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "nested_switch",
+            "request": "launch",
+            "mainClass": "com.example.nested_switch",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "Switch_case",
+            "request": "launch",
+            "mainClass": "com.example.Switch_case",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "com.example.Calculator",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "com.example.Calculator",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "com.example.Question5",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "com.example.Question4",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "com.example.Question3",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "com.example.Question2",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "com.example.Question1",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "com.example.loops",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "com.example.Temperature",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "casting_conversion",
+            "request": "launch",
+            "mainClass": "com.example.casting_conversion",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "primitive",
+            "request": "launch",
+            "mainClass": "com.example.primitive",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "com.example.sum",
+            "projectName": "Java-Pac_d52f96ae"
+        },
+        {
+            "type": "java",
+            "name": "tutorial",
+            "request": "launch",
+            "mainClass": "com.example.tutorial",
+            "projectName": "Java-Pac_d52f96ae"
+        }
+    ]
+}
