@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SnakeGame",
+            "request": "launch",
+            "mainClass": "com.game.SnakeGame",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
             "name": "array_tutorial",
             "request": "launch",
             "mainClass": "array_tutorial",
