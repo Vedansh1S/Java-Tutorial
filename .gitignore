@@ -1,7 +1,18 @@
+# Compiled class files
 *.class
-.DS_Store
-out/
+
+# IDE specific files
 .idea/
 *.iml
+.vscode/
+
+# Build output
+out/
 bin/
-.vscode
+
+# macOS system files
+.DS_Store
+
+# Project specific folders
+Snake_Game/
+OOP/
