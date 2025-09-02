@@ -5,7 +5,7 @@ class thermostat{
     private double temperatureCelsius;
 
     public thermostat(double temperatureCelsius){
-        this.temperatureCelsius = 1;
+        //this.temperatureCelsius = 1;
         this.setTemperatureCelsius(temperatureCelsius);
     }
 
@@ -21,12 +21,13 @@ class thermostat{
     }
 
     //setter
-    public void setTemperatureCelsius(double temperature){
-        if(temperature > 40 || temperature < 0){
-            System.out.println("enter valid temperature");
+    public void setTemperatureCelsius(double temperatureCelsius){
+        if(temperatureCelsius < 40 && temperatureCelsius > 0){
+            this.temperatureCelsius = temperatureCelsius;
         }
         else{
-            this.temperatureCelsius = temperature;
+            System.out.println("Enter valid Temperature.");
+            this.temperatureCelsius = 0;
         }
     }
 
@@ -39,7 +40,7 @@ class thermostat{
 
 public class Encapsulation_Assignment {
     public static void main(String[] args) {
-        thermostat temperature1 = new thermostat(55);
+        thermostat temperature1 = new thermostat(35);
         temperature1.display();
         System.out.println();
 
