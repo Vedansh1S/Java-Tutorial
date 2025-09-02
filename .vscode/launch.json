@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Encapsulation_Assignment",
+            "request": "launch",
+            "mainClass": "com.Encapsulation_Assignment",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation2",
+            "request": "launch",
+            "mainClass": "com.Encapsulation2",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "com.Encapsulation",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
+            "name": "class_and_object",
+            "request": "launch",
+            "mainClass": "com.class_and_object",
+            "projectName": "Java-Tutorial_14deb6c2"
+        },
+        {
+            "type": "java",
             "name": "SnakeGame",
             "request": "launch",
             "mainClass": "com.game.SnakeGame",
